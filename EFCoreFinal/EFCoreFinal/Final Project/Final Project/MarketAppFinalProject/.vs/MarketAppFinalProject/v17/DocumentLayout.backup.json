@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCEB2B0-5B72-49FA-9007-70F83F688600}|UserPanel\\UserPanel.csproj|c:\\users\\mr.yusubov\\desktop\\final project\\final project\\marketappfinalproject\\userpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCEB2B0-5B72-49FA-9007-70F83F688600}|UserPanel\\UserPanel.csproj|solutionrelative:userpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCEB2B0-5B72-49FA-9007-70F83F688600}|UserPanel\\UserPanel.csproj|c:\\users\\mr.yusubov\\desktop\\final project\\final project\\marketappfinalproject\\userpanel\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCEB2B0-5B72-49FA-9007-70F83F688600}|UserPanel\\UserPanel.csproj|solutionrelative:userpanel\\services\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCEB2B0-5B72-49FA-9007-70F83F688600}|UserPanel\\UserPanel.csproj|c:\\users\\mr.yusubov\\desktop\\final project\\final project\\marketappfinalproject\\userpanel\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCEB2B0-5B72-49FA-9007-70F83F688600}|UserPanel\\UserPanel.csproj|solutionrelative:userpanel\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCEB2B0-5B72-49FA-9007-70F83F688600}|UserPanel\\UserPanel.csproj|c:\\users\\mr.yusubov\\desktop\\final project\\final project\\marketappfinalproject\\userpanel\\services\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCEB2B0-5B72-49FA-9007-70F83F688600}|UserPanel\\UserPanel.csproj|solutionrelative:userpanel\\services\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FCEB2B0-5B72-49FA-9007-70F83F688600}|UserPanel\\UserPanel.csproj|c:\\users\\mr.yusubov\\desktop\\final project\\final project\\marketappfinalproject\\userpanel\\services\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FCEB2B0-5B72-49FA-9007-70F83F688600}|UserPanel\\UserPanel.csproj|solutionrelative:userpanel\\services\\cartmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2A4517-802E-4156-AC64-619AD2E9B5EC}|MarketApp.Models\\MarketApp.Models.csproj|c:\\users\\mr.yusubov\\desktop\\final project\\final project\\marketappfinalproject\\marketapp.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2A4517-802E-4156-AC64-619AD2E9B5EC}|MarketApp.Models\\MarketApp.Models.csproj|solutionrelative:marketapp.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2A4517-802E-4156-AC64-619AD2E9B5EC}|MarketApp.Models\\MarketApp.Models.csproj|c:\\users\\mr.yusubov\\desktop\\final project\\final project\\marketappfinalproject\\marketapp.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2A4517-802E-4156-AC64-619AD2E9B5EC}|MarketApp.Models\\MarketApp.Models.csproj|solutionrelative:marketapp.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2A4517-802E-4156-AC64-619AD2E9B5EC}|MarketApp.Models\\MarketApp.Models.csproj|c:\\users\\mr.yusubov\\desktop\\final project\\final project\\marketappfinalproject\\marketapp.models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2A4517-802E-4156-AC64-619AD2E9B5EC}|MarketApp.Models\\MarketApp.Models.csproj|solutionrelative:marketapp.models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2A4517-802E-4156-AC64-619AD2E9B5EC}|MarketApp.Models\\MarketApp.Models.csproj|c:\\users\\mr.yusubov\\desktop\\final project\\final project\\marketappfinalproject\\marketapp.models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2A4517-802E-4156-AC64-619AD2E9B5EC}|MarketApp.Models\\MarketApp.Models.csproj|solutionrelative:marketapp.models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2A4517-802E-4156-AC64-619AD2E9B5EC}|MarketApp.Models\\MarketApp.Models.csproj|c:\\users\\mr.yusubov\\desktop\\final project\\final project\\marketappfinalproject\\marketapp.models\\data\\marketappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2A4517-802E-4156-AC64-619AD2E9B5EC}|MarketApp.Models\\MarketApp.Models.csproj|solutionrelative:marketapp.models\\data\\marketappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD37CAB-D98B-4DB7-86C2-15CFB1102FE9}|AdminPanel\\AdminPanel.csproj|c:\\users\\mr.yusubov\\desktop\\final project\\final project\\marketappfinalproject\\adminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD37CAB-D98B-4DB7-86C2-15CFB1102FE9}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD37CAB-D98B-4DB7-86C2-15CFB1102FE9}|AdminPanel\\AdminPanel.csproj|c:\\users\\mr.yusubov\\desktop\\final project\\final project\\marketappfinalproject\\adminpanel\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD37CAB-D98B-4DB7-86C2-15CFB1102FE9}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\services\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD37CAB-D98B-4DB7-86C2-15CFB1102FE9}|AdminPanel\\AdminPanel.csproj|c:\\users\\mr.yusubov\\desktop\\final project\\final project\\marketappfinalproject\\adminpanel\\services\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD37CAB-D98B-4DB7-86C2-15CFB1102FE9}|AdminPanel\\AdminPanel.csproj|solutionrelative:adminpanel\\services\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\Migrations\\20240925204204_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MarketApp.Models\\Migrations\\20240925204204_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2A4517-802E-4156-AC64-619AD2E9B5EC}|MarketApp.Models\\MarketApp.Models.csproj|c:\\users\\mr.yusubov\\desktop\\final project\\final project\\marketappfinalproject\\marketapp.models\\migrations\\20240925232154_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2A4517-802E-4156-AC64-619AD2E9B5EC}|MarketApp.Models\\MarketApp.Models.csproj|solutionrelative:marketapp.models\\migrations\\20240925232154_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\Cart.cs",
+              "RelativeDocumentMoniker": "MarketApp.Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\Cart.cs",
+              "RelativeToolTip": "MarketApp.Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:47:37.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\AdminPanel\\Services\\ProductManager.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Services\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\AdminPanel\\Services\\ProductManager.cs",
+              "RelativeToolTip": "AdminPanel\\Services\\ProductManager.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswCYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:51:04.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\AdminPanel\\Program.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\AdminPanel\\Program.cs",
+              "RelativeToolTip": "AdminPanel\\Program.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAAAAIYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T14:57:23.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MarketAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\Data\\MarketAppContext.cs",
+              "RelativeDocumentMoniker": "MarketApp.Models\\Data\\MarketAppContext.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\Data\\MarketAppContext.cs",
+              "RelativeToolTip": "MarketApp.Models\\Data\\MarketAppContext.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwCoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:08:42.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\UserPanel\\Services\\CartManager.cs",
+              "RelativeDocumentMoniker": "UserPanel\\Services\\CartManager.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\UserPanel\\Services\\CartManager.cs",
+              "RelativeToolTip": "UserPanel\\Services\\CartManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:28:11.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "MarketApp.Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\CartItem.cs",
+              "RelativeToolTip": "MarketApp.Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:50:34.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\Category.cs",
+              "RelativeDocumentMoniker": "MarketApp.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\Category.cs",
+              "RelativeToolTip": "MarketApp.Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:11:47.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\Product.cs",
+              "RelativeDocumentMoniker": "MarketApp.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\Product.cs",
+              "RelativeToolTip": "MarketApp.Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T21:11:18.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\UserPanel\\Services\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "UserPanel\\Services\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\UserPanel\\Services\\CategoryManager.cs",
+              "RelativeToolTip": "UserPanel\\Services\\CategoryManager.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:13:17.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\UserPanel\\Services\\ProductManager.cs",
+              "RelativeDocumentMoniker": "UserPanel\\Services\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\UserPanel\\Services\\ProductManager.cs",
+              "RelativeToolTip": "UserPanel\\Services\\ProductManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:16:58.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\UserPanel\\Services\\UserManager.cs",
+              "RelativeDocumentMoniker": "UserPanel\\Services\\UserManager.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\UserPanel\\Services\\UserManager.cs",
+              "RelativeToolTip": "UserPanel\\Services\\UserManager.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:14:10.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\UserPanel\\Program.cs",
+              "RelativeDocumentMoniker": "UserPanel\\Program.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\UserPanel\\Program.cs",
+              "RelativeToolTip": "UserPanel\\Program.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAAALoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T19:18:48.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryManager.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\AdminPanel\\Services\\CategoryManager.cs",
+              "RelativeDocumentMoniker": "AdminPanel\\Services\\CategoryManager.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\AdminPanel\\Services\\CategoryManager.cs",
+              "RelativeToolTip": "AdminPanel\\Services\\CategoryManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowBsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T18:51:08.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240925204204_init.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\Migrations\\20240925204204_init.cs",
+              "RelativeDocumentMoniker": "MarketApp.Models\\Migrations\\20240925204204_init.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\Migrations\\20240925204204_init.cs",
+              "RelativeToolTip": "MarketApp.Models\\Migrations\\20240925204204_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T20:42:04.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240925232154_init.cs",
+              "DocumentMoniker": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\Migrations\\20240925232154_init.cs",
+              "RelativeDocumentMoniker": "MarketApp.Models\\Migrations\\20240925232154_init.cs",
+              "ToolTip": "C:\\Users\\Mr.Yusubov\\Desktop\\Final Project\\Final Project\\MarketAppFinalProject\\MarketApp.Models\\Migrations\\20240925232154_init.cs",
+              "RelativeToolTip": "MarketApp.Models\\Migrations\\20240925232154_init.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:21:55.013Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
